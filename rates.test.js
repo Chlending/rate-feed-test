@@ -1,2 +1,1 @@
-// test file
-window.CHL_UPDATED = "2026-02-22";
+window.TEST_VALUE = "old";
